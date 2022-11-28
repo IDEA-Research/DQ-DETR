@@ -8,13 +8,13 @@ Authors: [Shilong Liu](https://www.lsl.zone/), [Yaoyuan Liang](https://scholar.g
 PEG requires a model to extract phrases from text and locate objects from image simultaneously. As phrase extraction can be regarded as a 1D text segmentation problem, we formulate PEG as a dual detection problem. 
 
 
-![tasks_comparison](.asset\tasks_comparison.png)
+![tasks_comparison](.asset/tasks_comparison.png)
 
 
 
 To evaluate the performance of PEG, we also propose a new metric CMAP (cross-modal average precision), analogous to the AP metric in object detection.
 
-![cmap](.asset\cmap.png)
+![cmap](.asset/cmap.png)
 
 
 
@@ -22,10 +22,10 @@ To evaluate the performance of PEG, we also propose a new metric CMAP (cross-mod
 ## DQ-DETR
 As phrase extraction can be regarded as a 1D text segmentation problem, we formulate PEG as a dual detection problem.
 
-![dq-detr](.asset\dq-detr.png)
+![dq-detr](.asset/dq-detr.png)
 
 ## Experiments
 
-![refcoco](.asset\refcoco.png)
-![flickr30k](.asset\flickr30k.png)
+![refcoco](.asset/refcoco.png)
+![flickr30k](.asset/flickr30k.png)
 
